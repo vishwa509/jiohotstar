@@ -1,0 +1,22 @@
+.one{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100pX;
+    margin: 5px;
+}
+.two{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+.three{
+    background-color: orangered;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+h1{
+    color: rgb(226, 7, 73);
+    position: fixed;
+}

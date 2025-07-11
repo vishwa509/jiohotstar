@@ -1,0 +1,21 @@
+div {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(13, 191, 223);
+}
+
+li {
+    background-color: white;
+    border: 2px solid blue;
+    padding: 20px;
+    width: fit-content;
+    margin: 180px auto;
+}
+
+ul {
+    background-color: gray;
+    color: rgb(247, 4, 105);
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
